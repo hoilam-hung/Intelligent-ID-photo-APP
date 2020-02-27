@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceDetection", "FaceDetect
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceDetectionTest", "FaceDetectionTest\FaceDetectionTest.vcxproj", "{68D8567B-DAAD-4C79-85D8-EB90FBD74C08}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceDetectionAndResize", "FaceDetectionAndResize\FaceDetectionAndResize.vcxproj", "{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{68D8567B-DAAD-4C79-85D8-EB90FBD74C08}.Release|x64.Build.0 = Release|x64
 		{68D8567B-DAAD-4C79-85D8-EB90FBD74C08}.Release|x86.ActiveCfg = Release|Win32
 		{68D8567B-DAAD-4C79-85D8-EB90FBD74C08}.Release|x86.Build.0 = Release|Win32
+		{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}.Debug|x64.ActiveCfg = Debug|x64
+		{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}.Debug|x64.Build.0 = Debug|x64
+		{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}.Debug|x86.Build.0 = Debug|Win32
+		{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}.Release|x64.ActiveCfg = Release|x64
+		{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}.Release|x64.Build.0 = Release|x64
+		{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}.Release|x86.ActiveCfg = Release|Win32
+		{4FB9D716-C882-40DE-AFDA-6C18C6EB9008}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
